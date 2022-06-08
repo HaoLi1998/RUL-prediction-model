@@ -1,0 +1,5 @@
+1.All codes run in the environment of MATLAB2021a and higher.
+
+2.The original data of C-MPASS is relatively large and can be downloaded from https://www.nasa.gov/collection-asset/chetan-kulkarni-and-external-partners-release-new-turbofan-engine-degradation-0.
+
+3.There is our trained model in "goodnet.mat".
